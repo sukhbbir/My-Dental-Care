@@ -1,0 +1,3426 @@
+.top{
+    border:1px solid none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    flex-direction: row;
+    
+    } 
+        
+    .diva{
+    border:1px solid none;
+    
+    }    
+        
+           
+    .divb{
+        border:1px solid none;
+       display: flex;
+       flex-direction: row;
+      align-items: center;
+        }    
+            
+         
+    .divc{
+        border:1px solid none;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+       
+        }    
+            
+           
+    .divd{
+        border:1px solid none;
+        display: flex;
+        align-items: center;
+        padding:25px
+       
+        }    
+            
+          
+        
+        
+        
+        .divb1{
+            border:1px solid  none;
+    padding:15px;
+    border-radius: 100px;
+    background-color: lightblue
+        }
+        
+        
+        
+        
+        .divb2{
+            border:1px solid  none;
+            display: flex;
+            flex-direction: column;
+           
+        }
+        
+        
+        
+        
+        .divb3{
+            border:1px solid  none;
+            padding:15px;
+        }
+        
+        
+        .divb4{
+            border:1px solid  none;
+            padding:15px;
+        }
+        
+        
+        
+        
+        .divc1{
+            border:1px solid  none;
+    padding:15px;
+    border-radius: 100px;
+    background-color: lightblue
+        }
+        
+        
+        
+        
+        .divc2{
+            border:1px solid  none;
+            display: flex;
+            flex-direction: column;
+    
+            
+        }
+        
+        
+        
+        
+        .divc3{
+            border:1px solid  none;
+            padding:15px;
+           
+        }
+        
+        
+        .divc4{
+            border:1px solid  none;
+            padding:15px;
+        }
+        
+        
+        
+        .divd1
+    {
+    border:1px solid  none;
+    font-size: 20px;
+    border-radius: 25px;
+    padding:10px;
+    background-image: linear-gradient(to right,aqua,rgb(80, 193, 144));
+    color:white;
+    }
+    
+    
+    
+    .dive{
+        border:1px solid  none;
+      display:flex;
+      justify-content: space-between;
+      background-color: aqua;
+      
+       
+    }
+    
+    .dive1{
+        border:1px solid  none;
+        padding:10px;
+       
+
+    }
+
+
+.dive1 ul{
+    display: flex;
+    
+}
+
+
+.dive1 li:hover{
+    color:white
+}
+
+
+
+
+
+.dive1 ul li{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    margin-left:60px;
+}
+
+
+
+
+    
+    .dive2{
+        border:1px solid  none;
+        padding:10px;
+    }
+   
+    
+    
+    
+    
+    
+    .dive3{
+        border:1px solid  none;
+        padding:10px;
+        display:none;
+    }
+   
+    
+    .dive4{
+border:1px solid  none;
+display:none;
+
+    }
+
+.divf{
+    border:1px solid none;
+
+background-image: url("../images/banner.jpg");
+background-size:100% 100%;
+}
+
+
+
+
+
+
+.divf1{
+border:1px solid none;
+display:flex;
+flex-wrap: wrap;
+flex-direction: column;
+
+
+}
+
+
+    
+.divf2{
+    border:1px solid none;
+    font-size: 30px;
+    padding: 10px;
+    }
+    
+    
+    
+.divf3{
+    border:1px solid none;
+    font-size: 60px;
+    padding: 10px;
+    }
+    
+    
+    
+        
+.divf4{
+    border:1px solid none;
+    font-size: 60px;
+    padding: 10px;
+    }
+    
+
+
+    .divf5{
+        border:1px solid none;
+        padding:70px;
+        font-size: 22px;
+        text-align: left;
+        
+        }
+        
+
+
+            
+
+
+        .divf6{
+            border:1px solid none;
+            padding:10px;
+            display: flex;
+           
+            
+            }
+            
+.divf6a{
+    border:1px solid none;
+padding:0px;
+display: flex;
+border-radius: 50px;
+background-color: aqua;
+align-content: center;
+}
+
+
+           
+.divf6b{
+    border:1px solid none;
+    padding:10px;
+    border-radius: 30px;
+    font-size:20px;
+    color:white;
+    
+}
+
+
+          
+.divf6c{
+    border:1px solid none;
+    padding:10px;
+    border-radius: 50px;
+    background-color: rgb(12, 168, 235);
+
+}
+
+
+
+
+.container{
+    max-width:1100px;
+    margin:0px auto;
+    }
+    
+    
+    
+
+
+
+
+
+
+
+.divg{
+    border:1px solid none;
+    display: flex;
+   justify-content: space-around;
+    
+    
+}
+
+
+.divga{
+    border:1px solid none;
+    background-image: url("../images/welcomimage.png");
+    background-size: 100% 100%;
+    padding:200px;
+
+}
+
+
+
+.divgb{
+    border:1px solid none;
+    
+
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    
+   
+}
+
+
+.divgc
+{
+border:1px solid none;
+background-image: url("../images/welcom-pattren.png");
+    background-size:100% 100%;
+    padding:160px;
+
+
+}
+
+
+
+
+
+
+
+
+.divgb1{
+    border:1px solid none;
+    padding:10px;
+    font-size: 25px;
+}
+
+
+
+.divgb2{
+    border:1px solid none;
+    padding:10px;
+    font-size: 60px;
+}
+
+
+
+.divgb3{
+    border:1px solid none;
+    padding:10px;
+    font-size: 50px;
+}
+
+
+
+
+.divgb4{
+    border:1px solid none;
+    padding:0px;
+    font-size: 15px;
+}
+
+
+
+
+.divgb5{
+    border:1px solid none;
+    padding:0px;
+    font-size: 15px;
+}
+
+
+
+
+.divgb6{
+    border:1px solid none;
+    padding:0px;
+    font-size: 15px;
+}
+
+
+
+.divgb7{
+    border:1px solid none;
+    padding:0px;
+    font-size: 15px;
+}
+
+
+
+.divgb8{
+border:1px solid none;
+display: flex;
+flex-wrap: wrap;
+
+}
+
+
+
+.divgb9{
+    border:1px solid none;
+    
+    }
+    
+
+    .divgb10{
+        border:1px solid none;
+        display: flex;
+flex-direction: row;
+justify-content: center;
+justify-items: center;
+align-items: center;
+        }
+        
+
+
+        .divgb11{
+            border:1px solid none;
+            font-size: 12px;
+            
+            
+            }
+            
+
+
+            .divgb12{
+                border:1px solid none;
+                
+                }
+               
+
+
+
+.divh{
+    border:1px solid none;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(248, 252, 255);
+    margin-top: 40px;
+}
+
+
+
+.divh1{
+    border:1px solid none;
+font-size: 40px;
+}
+
+
+
+.divh2{
+    border:1px solid none;
+    font-size: 70px;
+    padding:10px;
+    
+}
+
+
+
+.divi{
+border:1px solid none;
+display: flex;
+justify-content: center;
+background-color: rgb(248, 252, 255);
+
+}
+
+
+
+.divi1{
+    border:1px solid none;
+    background-color: white;
+    }
+    
+
+
+    .divi2{
+        border:1px solid none;
+        box-shadow: 0px 0px 7px 7px rgb(12, 168, 235);
+       
+        position: relative;
+
+        background-color: white;
+        }
+        
+
+
+        .divi3{
+            border:1px solid none;
+            background-color: white;
+            }
+            
+
+
+
+
+.divi1a{
+    border:1px solid none;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
+.divi1b{
+    border-top:1px solid none;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.divi1c{
+    border:1px solid none;
+    padding:20px;
+}
+
+
+.divi1d{
+    border:1px solid none;
+    padding: 10px;
+   display:flex;
+  
+   
+}
+
+
+
+.divi1e{
+    border:1px solid none;
+    display: flex;
+    padding:0px;
+    border-radius: 45px;
+    justify-content: center;
+    align-content: center;
+    background-color: aqua;
+   
+}
+
+
+.divi1f{
+    border:1px solid none;
+    padding:10px;
+    border-radius: 35px;
+    background-color: aqua;
+    
+}
+
+
+.divi1g{
+    border:1px solid none;
+    background-color: rgb(12, 168, 235);
+    padding:10px;
+    border-radius: 100px;
+}
+
+
+.divj{
+    border:1px solid none;
+    text-align: center;
+    padding: 30px;
+    margin-top: 30px;
+}
+
+
+
+.divk{
+    border:1px solid none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    text-align: center;
+
+}
+
+
+.divka{
+    border:1px solid none;
+    font-size: 30px;
+}
+
+
+.divkb{
+    border:1px solid none;
+    font-size: 60px;
+    
+}
+
+
+.divkc{
+    border:1px solid none;
+    font-size: 60px;
+}
+
+
+
+.divkd{
+    border:1px solid none;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+   
+}
+
+
+
+
+.divke ul{
+    border:1px solid none;
+    display: flex;
+   
+   
+}
+
+.divke ul li{
+    border:1px solid black;
+margin-left: 60px;
+list-style: none;
+padding:20px;
+}
+
+
+.divke li:hover{
+
+    background-color: aqua;
+    color:white;
+}
+
+
+
+.divl{
+    border:1px solid none;
+    display: flex;
+    margin-top: 30px;
+    
+
+}
+
+
+
+
+
+
+.divla{
+    border:1px solid none;
+   
+    padding:0px;
+    
+   
+
+}
+
+.divla img{
+    height:100%;
+   width:100%;
+}
+
+
+
+
+
+.divlb{
+    border:1px solid none;
+   
+    padding:0px;
+
+    margin-left: 30px;
+
+
+}
+
+
+
+
+.divm{
+    border:1px solid none;
+    background-image: url("../images/Cta-bg.jpg");
+    background-size: 100% 100%;
+    margin-top: 30px;
+   
+
+}
+
+
+
+.divma{
+border:1px solid none;
+text-align: center;
+padding:20px;
+
+}
+
+
+
+.divmb{
+border:1px solid none;
+text-align: center;
+padding:20px;
+font-size: 60px;
+    
+}
+
+
+
+.divmc{
+border:1px solid none;
+text-align: center;
+border-radius: 70px;
+display:flex;
+justify-content: center;
+
+    
+}
+
+
+.divmd{
+    border:1px solid none;
+    border-radius: 45px;
+    padding:10px;
+    display: flex;
+    background-color: aqua;
+    
+}
+
+
+
+.divme{
+    border:1px solid none;
+    border-radius: 35px;
+    padding:10px;
+   background-color:aqua;
+}
+
+
+
+.divmf{
+    border:1px solid none;
+    border-radius: 100px;
+    padding:10px;
+    background-color: rgb(12, 168, 235);
+    
+}
+
+
+.divn{
+    border:1px solid none;
+    padding:40px;
+    
+}
+
+
+
+
+.divna{
+    border:1px solid none;
+    text-align: center;
+padding:10px;
+
+}
+
+
+
+
+.divnb{
+    border:1px solid none;
+    text-align: center;
+    padding:10px;
+    font-size: 50px;
+
+
+}
+
+
+
+
+
+
+
+.divo{
+    border:1px solid none;
+    display: flex;
+    justify-content: center;
+   
+    
+
+    
+}
+
+
+
+.divo1{
+    border:1px solid none;
+  text-align: center;
+  
+}
+
+
+.divo1:hover{
+    box-shadow:0px 0px 7px 7px rgba(0, 0, 0, 0.479);
+}
+
+
+
+
+
+
+
+
+.divo2{
+    border:1px solid none;
+    
+    text-align: center;
+
+}
+ 
+
+
+.divo2:hover{
+    box-shadow:0px 0px 7px 7px rgba(0, 0, 0, 0.479);
+}
+
+
+
+
+
+
+
+
+.divo3{
+    border:1px solid none;
+    text-align:center;
+}
+
+
+
+
+.divo3:hover{
+    box-shadow:0px 0px 7px 7px rgba(0, 0, 0, 0.479);
+}
+
+
+
+
+
+
+
+
+.divo11{
+    border:1px solid none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.divo22{
+    border:1px solid none;
+padding:10px;
+font-size:20px;
+
+
+
+}
+
+
+
+
+
+.divo33{
+    border:1px solid none;
+    padding:20px;
+    font-size:50px;
+    font-family: impact;
+}
+
+
+
+
+.divo44{
+    border:1px solid none;
+    padding:10px;
+}
+
+
+
+
+
+.divo55{
+    border:1px solid none;
+    padding:10px;
+}
+
+
+
+
+
+.divo66{
+    border:1px solid none;
+    padding:10px;
+}
+
+
+
+
+
+.divo77{
+    border:1px solid none;
+    padding:0px;
+    display: flex;
+border-radius: 0px;
+justify-content: center;
+
+}
+
+
+.divo88{
+    border:1px solid none;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 45px;
+    background-color: aqua;
+    justify-content: center;
+    
+}
+
+
+.divo99{
+    border:1px solid none;
+    padding:10px;
+    background-color: aqua;
+    border: 50px;
+}
+
+
+.divo1010{
+    border:1px solid none;
+    padding:10px;
+    background-color: rgb(12, 168, 235);
+    border-radius: 100px;
+}
+
+
+
+
+
+
+
+.divo11 img{
+    height:100%;
+    width:100%
+}
+
+
+
+.divp{
+    border:1px solid none;
+    padding: 40px;
+}
+
+
+
+.divp1{
+    border:1px solid none;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+
+
+
+.divp2{
+    border:1px solid none;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+.divp3{
+    border:1px solid none;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+
+
+
+.divp4{
+    border:1px solid black;
+}
+
+
+
+.divp4 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+.divp5{
+    border:1px solid black;
+    margin-left: 15px;
+}
+
+
+
+.divp5 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+
+.divp6{
+    border:1px solid black;
+    margin-left: 15px;
+}
+
+
+
+.divp6 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+
+
+.divp7{
+    border:1px solid black;
+    margin-left: 15px;
+}
+
+
+
+.divp7 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+
+.divp4a{
+border:1px solid none;
+
+}
+
+
+
+
+
+
+
+
+.divp4b{
+    border:1px solid none;
+    padding:10px;
+    text-align: center;
+}
+
+
+
+.divq{
+    border:1px solid none;
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+   
+   margin-top: 30px;
+   background-color: aqua
+   
+  
+}
+
+
+.divqa{
+    border:1px solid none;
+    
+    padding: 0px;
+   
+}
+
+
+
+
+.divqb{
+    border:1px solid none;
+   padding:0px;
+}
+
+
+
+.divqb img{
+    
+height:100%;
+width:100%;
+}
+
+
+
+
+
+
+
+.divq1{
+    border:1px solid none;
+    padding:20px;
+    
+}
+
+
+
+.divq2{
+    border:1px solid none;
+    padding:20px;
+    font-size: 50px;
+}
+
+
+.divq3{
+    border:1px solid none;
+    padding:20px;
+}
+
+
+.divq4{
+    border:1px solid none;
+    padding:20px;
+}
+
+
+.divq5{
+    border:1px solid none;
+    padding:20px;
+}
+
+
+.divq6{
+    border:1px solid none;
+    padding:20px;
+}
+
+
+.divq6 img{
+    height:100%;
+    width:100%;
+}
+
+
+.divr{
+    border:1px solid none;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding:30px;
+    
+}
+
+
+
+.divr1{
+    border:1px solid black;
+}
+
+
+
+.divr2{
+    border:1px solid black;
+}
+
+
+
+.divr3{
+    border:1px solid black;
+}
+
+
+
+
+.divr4{
+    border:1px solid black;
+}
+
+
+
+
+
+
+.divs{
+    border:1px solid none;
+display:flex;
+justify-content: center;
+
+}
+
+
+
+
+
+.divsa{
+    border:1px solid black;
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+text-align: center;
+}
+
+
+
+
+
+.divsb{
+    border:1px solid black;
+
+    
+}
+
+
+
+
+
+.divs1{
+    border:1px solid none;
+text-align: center;
+padding:10px;
+    
+}
+
+
+
+.divs2{
+    border:1px solid none;
+    padding:10px;
+    font-size: 40px;
+    
+}
+
+
+.divs3{
+    border:1px solid none;
+    padding:20px;
+    font-size: 25px;
+}
+
+
+.divs4{
+    border:1px solid none;
+    padding:20px;
+    font-size: 25px;
+    
+}
+
+
+.divs5{
+    border:1px solid none;
+    padding:10px;
+    
+}
+
+.divs6{
+    border:1px solid none;
+    padding:10px;
+    
+}
+
+
+.divs7{
+    border:1px solid none;
+    padding:10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divsb1{
+    border:1px solid none;
+padding:10px;
+font-size: 25px;
+
+}
+
+
+
+
+
+.divsb2{
+    border:1px solid none;
+padding:40px;
+font-size: 25px;
+display: flex;
+justify-content: space-between;
+
+}
+
+
+
+
+.divsb3{
+    border:1px solid black;
+padding:10px;
+font-size: 25px;
+border-radius: 25px;
+
+}
+
+
+
+.divsb4{
+    border:1px solid black;
+padding:10px;
+font-size: 25px;
+border-radius: 25px;
+margin-left: 30px;
+}
+
+
+
+
+
+
+.divsb3 input{
+    border: none;
+    outline: none;
+}
+
+
+
+
+
+.divsb4 input{
+    border: none;
+    outline: none;
+}
+
+
+
+
+.divsb5{
+border:1px solid black;
+border-radius: 25px;
+padding: 15px;
+margin-top: 20px;
+
+}
+
+
+
+
+.divsb5 input{
+   border: none;
+    outline: none;
+    
+    }
+    
+
+
+
+
+
+
+
+.divsb6{
+
+border:1px solid black;
+border-radius: 25px;
+padding: 15px;
+margin-top: 20px;
+}
+
+
+
+
+.divsb6 input{
+    border: none;
+     outline: none;
+     
+     }
+     
+
+
+.divsb7{
+    border:1px solid none;
+    margin-top: 50px;
+}
+
+
+
+
+
+.divt{
+    border:1px solid none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 0.832);
+    margin-top: 40px;
+}
+
+
+
+.divta{
+    border:1px solid none;
+    background-color: white;
+}
+
+
+
+.divtb{
+    border:1px solid none;
+    background-color: white;
+}
+
+
+
+
+.divtc{
+    border:1px solid none;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.divta1{
+    border:1px solid none;
+}
+
+
+.divta2{
+    border:1px solid none;
+    padding: 10px;
+    font-size: 10px;
+}
+
+
+.divta3{
+    border:1px solid none;
+    padding: 10px;
+    font-size: 10px;
+}
+
+
+.divta4{
+    border:1px solid none;
+    padding: 10px;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divtb1{
+    border:1px solid none;
+    padding:10px;
+
+}
+
+
+
+.divtb2{
+    border:1px solid none;
+    padding:10px;
+}
+
+
+
+
+
+.divtb3{
+    border:1px solid none;
+    padding:10px;
+}
+
+
+
+
+.divtb4{
+    border:1px solid none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divtc1{
+    border:1px solid none;
+  
+
+}
+
+
+
+.divtc2{
+    border:1px solid none;
+    
+}
+
+
+
+
+
+.divtc3{
+    border:1px solid none;
+    
+}
+
+
+
+
+.divtc4{
+    border:1px solid none;
+}
+
+
+
+.divtc5{
+    border:1px solid none;
+}
+
+
+
+
+.divtc6{
+    border:1px solid none;
+}
+
+
+
+
+.divtc7{
+    border:1px solid none;
+}
+
+
+
+
+
+.divtc8{
+    border:1px solid none;
+}
+
+
+
+
+
+.divu{
+    border:1px solid none;
+    padding:15px;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.832);
+    color:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        @media only screen and (max-width:600px)
+        
+        {
+    
+    
+            .top{
+                border:1px solid none;
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction:column;
+               
+                } 
+                    
+                .diva{
+                border:1px solid none;
+                display: flex;
+                justify-content: center;
+                
+                
+                }    
+                    
+                       
+                .divb{
+                    border:1px solid none;
+                   display: flex;
+                   justify-content: start;
+                   margin-top: 20px;
+                  
+                    }    
+                        
+                     
+                .divc{
+                    border:1px solid none;
+                    justify-content: start;
+                   
+                    }    
+                        
+                       
+                .divd{
+                    border:1px solid none;
+                   display: flex;
+                   justify-content: center;
+                   
+                    }    
+                        
+    
+    
+    
+    
+    
+    
+                    .divb1{
+                        border:1px solid none;
+                padding:15px;
+                border-radius: 100px;
+                background-color: lightblue
+                    }
+                    
+                    
+                    
+                    
+                    .divb2{
+                        border:1px solid none;
+                        display: flex;
+                        flex-direction: column;
+                       
+                    }
+                    
+                    
+                    
+                    
+                    .divb3{
+                        border:1px solid none;
+                        padding:15px;
+                    }
+                    
+                    
+                    .divb4{
+                        border:1px solid none;
+                        padding:15px;
+                    }
+                    
+                    
+                    
+                    
+                    .divc1{
+                        border:1px solid none;
+                padding:15px;
+                border-radius: 100px;
+                background-color: lightblue
+                    }
+                    
+                    
+                    
+                    
+                    .divc2{
+                        border:1px solid none;
+                        display: flex;
+                        flex-direction: column;
+                
+                        
+                    }
+                    
+                    
+                    
+                    
+                    .divc3{
+                        border:1px solid none;
+                        padding:15px;
+                       
+                    }
+                    
+                    
+                    .divc4{
+                        border:1px solid none;
+                        padding:15px;
+                    }
+                    
+                    
+                    
+                    .divd1
+                {
+                border:1px solid none;
+                font-size: 20px;
+                border-radius: 25px;
+                padding:10px;
+                background-image: linear-gradient(to right,aqua,rgb(80, 193, 144));
+                color:white;
+                }
+                
+                
+                
+                .dive{
+                    border:1px solid none;
+                  display: flex;
+                  flex-wrap: wrap;
+                  flex-direction: column;
+                  
+                 
+                }
+                
+                
+                .dive1{
+                    border:1px solid none;
+                    padding:0px;
+                 display: none;
+                }
+            
+            
+            .dive1 ul{
+               border:1px soldi none;
+               display: flex;
+                flex-wrap: wrap;
+                flex-direction: column;
+                justify-content: center;
+              padding:0px;
+              margin:0px;
+              
+            }
+            
+            
+            
+            .dive1 ul li{
+                border:1px solid none;
+                list-style: none;
+                padding:17px;
+               
+                margin-left: 0px;
+                text-align: center;
+               
+            }
+            
+            
+.dive1 li:hover{
+    
+    color:white;
+}
+
+
+
+            
+            
+                
+                .dive2{
+                    border:1px solid none;
+                    padding:10px;
+                    display:none;
+                }
+
+
+
+                .dive3{
+                    border:1px solid none;
+                    padding:10px;
+                    display:block;
+                    text-align: end;
+                }
+               
+                
+
+                .dive4{
+                    border:1px solid none;
+                    display:block;
+                    padding:10px;
+        
+                        }
+                    
+
+
+                        .divf{
+                            border:1px solid none;
+                        padding:0px;
+                        background-image: url("../images/banner.jpg");
+                        
+                        margin: 0px;
+                        
+                        }
+                        
+
+
+
+
+                        .divf1{
+                            border:1px solid none;
+                            display:flex;
+                            flex-wrap: wrap;
+                            flex-direction: column;
+                          justify-content: start;
+                            
+                            }
+                            
+                            
+                                
+                            .divf2{
+                                border:1px solid none;
+                                font-size: 12px;
+                                padding: 10px;
+                                }
+                                
+                                
+                                
+                            .divf3{
+                                border:1px solid none;
+                                font-size: 25px;
+                                padding: 10px;
+                                }
+                                
+
+
+  
+        
+                                .divf4{
+                                    border:1px solid none;
+                                    font-size: 22px;
+                                    padding: 10px;
+                                    }
+                                    
+                                
+                                
+                                    .divf5{
+                                        border:1px solid none;
+                                        padding:30px;
+                                        font-size: 10px;
+                                        text-align:start;
+                                        
+                                        }
+                                        
+                                
+                                
+                                            
+                                
+                                
+                                        .divf6{
+                                            border:1px solid none;
+                                            padding:10px;
+                                            display: flex;
+                                        }
+
+
+
+
+           
+                                        .divf6a{
+                                            border:1px solid none;
+                                        padding:0px;
+                                        display: flex;
+                                        border-radius: 50px;
+                                        background-color: rgb(12, 168, 235);
+                                        align-content: center;
+                                        }
+                                        
+                                        
+                                                   
+                                        .divf6b{
+                                            border:1px solid none;
+                                            padding:10px;
+                                            border-radius: 30px;
+                                            font-size:20px;
+                                            color:white;
+                                            
+                                        }
+                                        
+                                        
+                                                  
+                                        .divf6c{
+                                            border:1px solid none;
+                                            padding:10px;
+                                            border-radius: 50px;
+                                            background-color: rgb(31, 213, 241);
+                                        
+                                        }
+
+
+
+                                        .divg{
+                                            border:1px solid none;
+                                            display: flex;
+                                           flex-wrap: wrap;
+                                            
+                                            
+                                        }
+                                        
+                                        
+                                        .divga{
+                                            border:1px solid none;
+                                            background-image: url("../images/welcomimage.png");
+                                            background-size: 100% 100%;
+                                            padding:150px;
+                                        
+                                        }
+                                        
+                                        
+                                        
+                                        .divgb{
+                                            border:1px solid none;
+                                            
+                                        
+                                            display:flex;
+                                            flex-wrap: wrap;
+                                            flex-direction:column;
+                                            
+                                            
+                                           
+                                        }
+                                        
+                                        
+                                        .divgc
+                                        {
+                                        border:1px solid none;
+                                        background-image: url("../images/welcom-pattren.png");
+                                            background-size:100% 100%;
+                                            display: none;
+                                        
+                                        
+                                        }
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        .divgb1{
+                                            border:1px solid none;
+                                            padding:10px;
+                                            font-size: 25px;
+                                            
+                                        }
+                                        
+                                        
+                                        
+                                        .divgb2{
+                                            border:1px solid none;
+                                            padding:10px;
+                                            font-size: 60px;
+                                        }
+                                        
+                                        
+                                        
+                                        .divgb3{
+                                            border:1px solid none;
+                                            padding:10px;
+                                            font-size: 50px;
+                                        }
+                                        
+                                        
+                                        
+                                        
+                                        .divgb4{
+                                            border:1px solid none;
+                                            padding:0px;
+                                            font-size: 15px;
+                                        }
+                                        
+                                        
+                                        
+                                        
+                                        .divgb5{
+                                            border:1px solid none;
+                                            padding:0px;
+                                            font-size: 15px;
+                                        }
+                                        
+                                        
+                                        
+                                        
+                                        .divgb6{
+                                            border:1px solid none;
+                                            padding:0px;
+                                            font-size: 15px;
+                                        }
+                                        
+                                        
+                                        
+                                        .divgb7{
+                                            border:1px solid none;
+                                            padding:0px;
+                                            font-size: 15px;
+                                        }
+                                        
+                                        
+                                        
+                                        .divgb8{
+                                        border:1px solid none;
+                                        display: flex;
+                                        flex-wrap: wrap;
+                                        margin-top: 20px;
+                                        
+                                        }
+                                        
+                                        
+                                        
+                                        .divgb9{
+                                            border:1px solid none;
+                                            
+                                            }
+                                            
+                                        
+                                            .divgb10{
+                                                border:1px solid none;
+                                                display: flex;
+                                        flex-direction: row;
+                                        justify-content: center;
+                                        justify-items: center;
+                                        align-items: center;
+                                                }
+                                                
+                                        
+                                        
+                                                .divgb11{
+                                                    border:1px solid none;
+                                                    font-size: 12px;
+                                                    
+                                                    
+                                                    }
+                                                    
+                                        
+                                        
+                                                    .divgb12{
+                                                        border:1px solid none;
+                                                        
+                                                        }
+
+
+
+
+                                                        .divh{
+                                                            border:1px solid none;
+                                                            display: flex;
+                                                            flex-wrap: wrap;
+                                                            justify-content: center;
+                                                            flex-direction: column;
+                                                            text-align: center;
+                                                        }
+                                                        
+                                                        
+                                                        
+                                                        .divh1{
+                                                            border:1px solid none;
+                                                        font-size: 40px;
+                                                        }
+                                                        
+                                                        
+                                                        
+                                                        .divh2{
+                                                            border:1px solid none;
+                                                            font-size: 50px;
+                                                        }
+                                                        
+                                                        
+
+
+
+
+
+                                                        .divi{
+                                                            border:1px solid none;
+                                                            display: flex;
+                                                            justify-content: center;
+                                                            flex-wrap: wrap;
+                                                            
+                                                            
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            .divi1{
+                                                                border:1px solid none;
+                                                                
+                                                                }
+                                                                
+                                                            
+                                                            
+                                                                .divi2{
+                                                                    border:1px solid none;
+                                                                    box-shadow: 0px 0px 7px 7px rgb(12, 168, 235);
+                                                                   
+                                                                    position: relative;
+                                                            
+                                                            
+                                                                    }
+                                                                    
+                                                            
+                                                            
+                                                                    .divi3{
+                                                                        border:1px solid none;
+                                                                        
+                                                                        }
+                                                                        
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            .divi1a{
+                                                                border:1px solid none;
+                                                                text-align: center;
+                                                                padding: 10px;
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            .divi1b{
+                                                                border-top:1px solid none;
+                                                                text-align: center;
+                                                                font-size: 30px;
+                                                            }
+                                                            
+                                                            
+                                                            .divi1c{
+                                                                border:1px solid none;
+                                                                padding:20px;
+                                                            }
+                                                            
+                                                            
+                                                            .divi1d{
+                                                                border:1px solid none;
+                                                                padding: 10px;
+                                                               
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            .divi1e{
+                                                                border:1px solid none;
+                                                                display: flex;
+                                                                padding:0px;
+                                                                border-radius: 100px;
+                                                                justify-content: center;
+                                                                align-content: center;
+                                                               
+                                                            }
+                                                            
+                                                            
+                                                            .divi1f{
+                                                                border:1px solid none;
+                                                                padding:10px;
+                                                                border-radius: 50px;
+                                                                background-color: rgb(12, 168, 235);
+                                                                
+                                                            }
+                                                            
+                                                            
+                                                            .divi1g{
+                                                                border:1px solid none;
+                                                                background-color: aqua;
+                                                                padding:10px;
+                                                                border-radius: 100px;
+                                                            }
+
+
+
+
+
+                                                            .divj{
+                                                                border:1px solid none;
+                                                                text-align: center;
+                                                                padding: 30px;
+                                                                font-size: 12px;
+                                                                margin-top: 20px;
+                                                                
+                                                            }
+                                                            
+
+
+
+
+
+                                                            .divk{
+                                                                border:1px solid none;
+                                                                display: flex;
+                                                                flex-wrap: wrap;
+                                                                flex-direction: column;
+                                                                text-align: center;
+                                                                margin-top: 30px;
+                                                            
+                                                            }
+                                                            
+                                                            
+                                                            .divka{
+                                                                border:1px solid none;
+                                                                font-size: 22px;
+                                                            }
+                                                            
+                                                            
+                                                            .divkb{
+                                                                border:1px solid none;
+                                                                font-size: 40px;
+                                                                
+                                                            }
+                                                            
+                                                            
+                                                            .divkc{
+                                                                border:1px solid none;
+                                                                font-size: 40px;
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            .divkd{
+                                                                border:1px solid none;
+                                                                display: flex;
+                                                                flex-wrap: wrap;
+                                                                flex-direction: column;
+                                                               
+                                                               
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            .divke ul{
+                                                                border:1px solid none;
+                                                                
+                                                               
+                                                            }
+                                                            
+                                                            .divke ul li{
+                                                                border:1px solid black;
+                                                            margin-left: 0px;
+                                                            list-style: none;
+                                                            padding:10px;
+                                                            }
+                                                            
+                                                            
+                                                            .divke li:hover{
+                                                            
+                                                                background-color: aqua;
+                                                                color:white;
+                                                            }
+
+
+
+
+                                                            .divl{
+                                                                border:1px solid none;
+                                                            display: flex;
+                                                            flex-wrap: wrap;
+                                                            justify-content: space-evenly;
+                                                            padding:0px;
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            .divla{
+                                                                border:1px solid none;
+                                                                
+                                                                padding:0px;
+                                                               
+                                                            
+                                                            }
+                                                            
+                                                            
+                                                            
+                                                            .divlb{
+                                                                border:1px solid none;
+                                                                
+                                                                padding:0px;
+                                                            display: none;
+                                                            
+                                                            
+                                                            }
+                                                            
+                                                            
+  
+                                                                                               
+                                                            
+.divla img{
+    height:100%;
+   width:100%;
+}
+                                                            
+                                                            
+
+
+                                                   
+.divm{
+    border:1px solid none;
+    background-image: url("../images/Cta-bg.jpg");
+    background-size: 100% 100%;
+    margin-top: 30px;
+   
+
+}
+
+
+
+.divma{
+border:1px solid none;
+text-align: center;
+padding:10px;
+font-size: 10px;
+
+}
+
+
+
+.divmb{
+border:1px solid none;
+text-align: center;
+padding:20px;
+font-size: 15px;
+    
+}
+
+
+
+.divmc{
+border:1px solid none;
+text-align: center;
+border-radius: 25px;
+    
+}
+
+
+.divmd{
+    border:1px solid none;
+    border-radius: 25px;
+    padding:0px;
+
+}
+
+
+
+
+
+.divme{
+    border:1px solid none;
+    border-radius: 35px;
+    padding:10px;
+   background-color:aqua;
+}
+
+
+
+.divmf{
+    border:1px solid none;
+    border-radius: 100px;
+    padding:10px;
+    background-color: rgb(12, 168, 235);
+    
+}
+
+
+
+
+.divn{
+    border:1px solid none;
+    padding:20px;
+    
+}
+
+
+
+
+.divna{
+    border:1px solid none;
+    text-align: center;
+padding:10px;
+
+}
+
+
+
+
+.divnb{
+    border:1px solid none;
+    text-align: center;
+    padding:10px;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+.divo{
+    border:1px solid none;
+    display: flex;
+    
+    text-align: center;
+    flex-wrap: wrap;
+    
+
+    
+}
+
+
+
+.divo1{
+    border:1px solid none;
+  
+}
+
+
+
+.divo2{
+    border:1px solid none;
+    display: none;
+}
+
+
+
+
+.divo3{
+    border:1px solid none;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.divo11{
+    border:1px solid none;
+}
+
+
+
+
+
+
+
+
+
+
+
+.divo22{
+    border:1px solid none;
+padding:0px;
+font-size:20px;
+
+
+
+}
+
+
+
+
+
+.divo33{
+    border:1px solid none;
+    padding:0px;
+    font-size:50px;
+    font-family: impact;
+}
+
+
+
+
+.divo44{
+    border:1px solid none;
+    padding:0px;
+}
+
+
+
+
+
+.divo55{
+    border:1px solid none;
+    padding:0px;
+}
+
+
+
+
+
+.divo66{
+    border:1px solid none;
+    padding:0px;
+}
+
+
+
+
+
+.divo77{
+    border:1px solid none;
+    padding:0px;
+    display: flex;
+border-radius: 0px;
+justify-content: center;
+
+}
+
+
+.divo88{
+    border:1px solid none;
+    padding:10px;
+    display: flex;
+    flex-direction: row;
+    border-radius: 45px;
+    background-color: aqua;
+    
+}
+
+
+.divo99{
+    border:1px solid none;
+    padding:10px;
+    background-color: aqua;
+    border: 50px;
+}
+
+
+.divo1010{
+    border:1px solid none;
+    padding:10px;
+    background-color: rgb(12, 168, 235);
+    border-radius: 100px;
+}
+
+
+.divo11 img{
+    height:100%;
+    width:100%
+}
+
+
+
+
+.divp{
+    border:1px solid none;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+.divp1{
+    border:1px solid none;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+}
+
+
+
+
+.divp2{
+    border:1px solid none;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
+.divp3{
+    border:1px solid none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    
+}
+
+
+
+.divp4{
+    border:1px solid none;
+    margin-left:12px;
+}
+
+
+
+.divp4 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+.divp5{
+    border:1px solid none;
+    
+}
+
+
+
+.divp5 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+
+.divp6{
+    border:1px solid none;
+    
+}
+
+
+
+.divp6 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+
+
+.divp7{
+    border:1px solid none;
+    
+}
+
+
+
+.divp7 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+
+.divp4a{
+border:1px solid none;
+
+}
+
+
+
+
+
+
+
+
+.divp4b{
+    border:1px solid none;
+    padding:10px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+.divq{
+    border:1px solid none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+   
+   margin-top: 30px;
+   background-color: aqua
+   
+  
+}
+
+
+.divqa{
+    border:1px solid none;
+    
+    padding: 0px;
+   
+}
+
+
+
+
+.divqb{
+    border:1px solid none;
+   padding:0px;
+}
+
+
+
+.divqb img{
+    
+height:100%;
+width:100%;
+}
+
+
+
+
+
+
+
+.divq1{
+    border:1px solid none;
+    padding:20px;
+    font-size:15px ;
+    
+}
+
+
+
+.divq2{
+    border:1px solid none;
+    padding:20px;
+    font-size: 35px;
+}
+
+
+.divq3{
+    border:1px solid none;
+    padding:20px;
+    font-size:13px 
+}
+
+
+.divq4{
+    border:1px solid none;
+    padding:20px;
+    font-size:13px 
+}
+
+
+.divq5{
+    border:1px solid none;
+    padding:20px;
+    font-size:13px 
+}
+
+
+.divq6{
+    border:1px solid none;
+    padding:20px;
+    font-size:13px 
+}
+
+
+.divq6 img{
+    height:100%;
+    width:100%;
+}
+
+
+
+
+
+
+
+
+.divr{
+    border:1px solid none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding:30px;
+    
+}
+
+
+
+.divr1{
+    border:1px solid none;
+    margin-top: 0px;
+}
+
+
+
+.divr2{
+    border:1px solid none;
+    margin-top: 15px;
+}
+
+
+
+.divr3{
+    border:1px solid none;
+    margin-top: 15px;
+}
+
+
+
+
+.divr4{
+    border:1px solid none;
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+.divs{
+    border:1px solid none;
+display:flex;
+justify-content: center;
+flex-wrap: wrap;
+
+}
+
+
+
+
+
+.divsa{
+    border:1px solid none;
+display: flex;
+flex-wrap: wrap;
+flex-direction: column;
+text-align: center;
+margin-top: 40px;
+}
+
+
+
+
+
+.divsb{
+    border:1px solid none;
+margin-top: 40px;
+    
+}
+
+
+
+
+
+.divs1{
+    border:1px solid none;
+text-align: center;
+padding:10px;
+    
+}
+
+
+
+.divs2{
+    border:1px solid none;
+    padding:10px;
+    font-size: 40px;
+    
+}
+
+
+.divs3{
+    border:1px solid none;
+    padding:20px;
+    font-size: 25px;
+}
+
+
+.divs4{
+    border:1px solid none;
+    padding:20px;
+    font-size: 25px;
+    
+}
+
+
+.divs5{
+    border:1px solid none;
+    padding:10px;
+    
+}
+
+.divs6{
+    border:1px solid none;
+    padding:10px;
+    
+}
+
+
+.divs7{
+    border:1px solid none;
+    padding:10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.divsb1{
+    border:1px solid none;
+padding:10px;
+font-size: 25px;
+
+}
+
+
+
+
+
+.divsb2{
+    border:1px solid none;
+padding:40px;
+font-size: 25px;
+display: flex;
+justify-content: space-between;
+
+}
+
+
+
+
+.divsb3{
+    border:1px solid none;
+padding:10px;
+font-size: 25px;
+border-radius: 25px;
+
+}
+
+
+
+.divsb4{
+    border:1px solid none;
+padding:10px;
+font-size: 25px;
+border-radius: 25px;
+margin-left: 30px;
+}
+
+
+
+
+
+
+.divsb3 input{
+    border: none;
+    outline: none;
+}
+
+
+
+
+
+.divsb4 input{
+    border: none;
+    outline: none;
+}
+
+
+
+
+.divsb5{
+border:1px solid none;
+border-radius: 25px;
+padding: 15px;
+margin-top: 20px;
+
+}
+
+
+
+
+.divsb5 input{
+   border: none;
+    outline: none;
+    
+    }
+    
+
+
+
+
+
+
+
+.divsb6{
+
+border:1px solid none;
+border-radius: 25px;
+padding: 15px;
+margin-top: 20px;
+}
+
+
+
+
+.divsb6 input{
+    border: none;
+     outline: none;
+     
+     }
+
+
+
+
+
+     .divsb7{
+        border:1px solid none;
+        margin-top: 20px;
+    }
+
+
+
+
+
+
+    .divt{
+        border:1px solid none;
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+        margin-top: 40px;
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    
+    
+    .divta{
+        border:1px solid none;
+        margin-top: 30px;
+        
+    }
+    
+    
+    
+    .divtb{
+        border:1px solid none;
+        margin-top: 30px;
+    }
+    
+    
+    
+    
+    .divtc{
+        border:1px solid none;
+        margin-top: 30px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .divta1{
+        border:1px solid none;
+    }
+    
+    
+    .divta2{
+        border:1px solid none;
+        padding: 10px;
+        font-size: 10px;
+    }
+    
+    
+    .divta3{
+        border:1px solid none;
+        padding: 10px;
+        font-size: 10px;
+    }
+    
+    
+    .divta4{
+        border:1px solid none;
+        padding: 10px;
+        font-size: 10px;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .divtb1{
+        border:1px solid none;
+        padding:10px;
+        
+    
+    }
+    
+    
+    
+    .divtb2{
+        border:1px solid none;
+        padding:10px;
+    }
+    
+    
+    
+    
+    
+    .divtb3{
+        border:1px solid none;
+        padding:10px;
+    }
+    
+    
+    
+    
+    .divtb4{
+        border:1px solid none;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    .divtc1{
+        border:1px solid none;
+      
+    
+    }
+    
+    
+    
+    .divtc2{
+        border:1px solid none;
+        
+    }
+    
+    
+    
+    
+    
+    .divtc3{
+        border:1px solid none;
+        
+    }
+    
+    
+    
+    
+    .divtc4{
+        border:1px solid none;
+    }
+    
+    
+    
+    .divtc5{
+        border:1px solid none;
+    }
+    
+    
+    
+    
+    .divtc6{
+        border:1px solid none;
+    }
+    
+    
+    
+    
+    .divtc7{
+        border:1px solid none;
+    }
+    
+    
+    
+    
+    
+    .divtc8{
+        border:1px solid none;
+    }
+
+
+
+
+
+
+    .divu{
+        border:1px solid none;
+        padding:15px;
+        text-align: center;
+        margin-top: 20px;
+        background-color: rgba(0, 0, 0, 0.754);
+        color:white;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            }
